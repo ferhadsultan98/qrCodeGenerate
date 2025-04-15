@@ -1,0 +1,264 @@
+{
+    "menu": [
+      {
+        "category_id": 1,
+        "category": {
+          "az": "Ət yeməkləri",
+          "ru": "Мясные блюда",
+          "en": "Meat Dishes"
+        },
+        "items": [
+          {
+            "id": 101,
+            "name": {
+              "az": "Kabob",
+              "ru": "Кебаб",
+              "en": "Kebab"
+            },
+            "description": {
+              "az": "Ət ilə hazırlanan ənənəvi Azərbaycan kababı.",
+              "ru": "Традиционный азербайджанский кебаб из мяса.",
+              "en": "Traditional Azerbaijani kebab made with meat."
+            },
+            "price": 12.50,
+            "image_url": "https://quzu.az/wp-content/uploads/Antrikot.webp"
+          },
+          {
+            "id": 102,
+            "name": {
+              "az": "Lülə Kebab",
+              "ru": "Люля-кебаб",
+              "en": "Lyulya Kebab"
+            },
+            "description": {
+              "az": "Dana əti və ədviyyatlarla hazırlanır.",
+              "ru": "Готовится из говядины и специй.",
+              "en": "Made from beef and spices."
+            },
+            "price": 13.00,
+            "image_url": "https://evdar.az/wp-content/uploads/Tavada-L%C9%99zz%C9%99tli-L%C3%BCl%C9%99-Kabab.jpg"
+          },
+          {
+            "id": 103,
+            "name": {
+              "az": "Qovurma",
+              "ru": "Кавурма",
+              "en": "Qovurma"
+            },
+            "description": {
+              "az": "Soğan və ədviyyatlarla qızardılmış dana əti.",
+              "ru": "Жареная говядина с луком и специями.",
+              "en": "Fried beef with onions and spices."
+            },
+            "price": 14.00,
+            "image_url": "https://bashkent.az/public/products/1725460354T%C9%99r%C9%99v%C9%99zlu%20quzu%20qovurma-min.jpg"
+          },
+          {
+            "id": 104,
+            "name": {
+              "az": "Biftek",
+              "ru": "Бифштекс",
+              "en": "Beef Steak"
+            },
+            "description": {
+              "az": "Yaxşı bişmiş dana bifteki, sousla xidmət olunur.",
+              "ru": "Хорошо приготовленный говяжий стейк, подается с соусом.",
+              "en": "Well-cooked beef steak, served with sauce."
+            },
+            "price": 18.00,
+            "image_url": "https://img.taste.com.au/V1mpwu4z/taste/2016/11/sharon-108893-2.jpeg"
+          }
+        ]
+      },
+      {
+        "category_id": 2,
+        "category": {
+          "az": "Toyuq yeməkləri",
+          "ru": "Блюда из курицы",
+          "en": "Chicken Dishes"
+        },
+        "items": [
+          {
+            "id": 201,
+            "name": {
+              "az": "Qızardılmış toyuq",
+              "ru": "Жареная курица",
+              "en": "Fried Chicken"
+            },
+            "description": {
+              "az": "Xırt-xırtlı təbəqə ilə dadlı qızardılmış toyuq.",
+              "ru": "Вкусная жареная курица с хрустящей корочкой.",
+              "en": "Delicious fried chicken with a crispy layer."
+            },
+            "price": 10.00,
+            "image_url": "https://images.unsplash.com/photo-1614695790969-0f3a6d07b9b1"
+          },
+          {
+            "id": 202,
+            "name": {
+              "az": "Toyuq Şaşlık",
+              "ru": "Куриный шашлык",
+              "en": "Chicken Shashlik"
+            },
+            "description": {
+              "az": "Marinasiya edilmiş toyuq əti şişdə qızardılır.",
+              "ru": "Маринованное куриное мясо, жаренное на шампурах.",
+              "en": "Marinated chicken meat grilled on skewers."
+            },
+            "price": 11.50,
+            "image_url": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0"
+          },
+          {
+            "id": 203,
+            "name": {
+              "az": "Toyuq Təndir",
+              "ru": "Курица Тандури",
+              "en": "Tandoori Chicken"
+            },
+            "description": {
+              "az": "Ədviyyatlı yoqurt sousunda bişmiş toyuq.",
+              "ru": "Курица, приготовленная в пряном йогуртовом соусе.",
+              "en": "Chicken cooked in a spicy yogurt sauce."
+            },
+            "price": 12.00,
+            "image_url": "https://images.unsplash.com/photo-1626645738196-c2a7c87a8f58"
+          }
+        ]
+      },
+      {
+        "category_id": 3,
+        "category": {
+          "az": "Şorbalar",
+          "ru": "Супы",
+          "en": "Soups"
+        },
+        "items": [
+          {
+            "id": 301,
+            "name": {
+              "az": "Düşbərə",
+              "ru": "Дюшбара",
+              "en": "Dushbara"
+            },
+            "description": {
+              "az": "Balaca xəmir parçaları ilə ət bulyonunda bişirilmiş şorba.",
+              "ru": "Суп с маленькими пельменями в мясном бульоне.",
+              "en": "Soup with small dumplings in meat broth."
+            },
+            "price": 7.00,
+            "image_url": "https://images.unsplash.com/photo-1617196038435-84e8fdb2c99f"
+          },
+          {
+            "id": 302,
+            "name": {
+              "az": "Piti",
+              "ru": "Пити",
+              "en": "Piti"
+            },
+            "description": {
+              "az": "Qoyun əti, noxud və kartof ilə bişirilmiş ənənəvi şorba.",
+              "ru": "Традиционный суп с бараниной, нутом и картофелем.",
+              "en": "Traditional soup with lamb, chickpeas, and potatoes."
+            },
+            "price": 8.50,
+            "image_url": "https://images.unsplash.com/photo-1598103606296-723b7a03b8c7"
+          },
+          {
+            "id": 303,
+            "name": {
+              "az": "Mərcimək Şorbası",
+              "ru": "Чечевичный суп",
+              "en": "Lentil Soup"
+            },
+            "description": {
+              "az": "Mərcimək, tərəvəz və ədviyyatlarla zəngin şorba.",
+              "ru": "Суп из чечевицы с овощами и специями.",
+              "en": "Rich lentil soup with vegetables and spices."
+            },
+            "price": 6.50,
+            "image_url": "https://images.unsplash.com/photo-1572449043416-2409e0419c03"
+          }
+        ]
+      },
+      {
+        "category_id": 4,
+        "category": {
+          "az": "Dəniz məhsulları",
+          "ru": "Морепродукты",
+          "en": "Seafood"
+        },
+        "items": [
+          {
+            "id": 401,
+            "name": {
+              "az": "Qızardılmış Balıq",
+              "ru": "Жареная рыба",
+              "en": "Fried Fish"
+            },
+            "description": {
+              "az": "Xırt-xırtlı qabıqda qızardılmış təzə balıq.",
+              "ru": "Свежая рыба, жаренная в хрустящей корочке.",
+              "en": "Fresh fish fried in a crispy coating."
+            },
+            "price": 15.00,
+            "image_url": "https://images.unsplash.com/photo-1625944228123-3db3f60ad180"
+          },
+          {
+            "id": 402,
+            "name": {
+              "az": "Krevet Tava",
+              "ru": "Креветки на сковороде",
+              "en": "Pan-fried Shrimp"
+            },
+            "description": {
+              "az": "Sarımsaq və ədviyyatlarla qızardılmış krevetlər.",
+              "ru": "Креветки, обжаренные с чесноком и специями.",
+              "en": "Shrimp fried with garlic and spices."
+            },
+            "price": 16.50,
+            "image_url": "https://images.unsplash.com/photo-1565684428273-44ce50317db5"
+          }
+        ]
+      },
+      {
+        "category_id": 5,
+        "category": {
+          "az": "Tərəvəz yeməkləri",
+          "ru": "Овощные блюда",
+          "en": "Vegetable Dishes"
+        },
+        "items": [
+          {
+            "id": 501,
+            "name": {
+              "az": "Badımcan Dolması",
+              "ru": "Фаршированные баклажаны",
+              "en": "Stuffed Eggplant"
+            },
+            "description": {
+              "az": "Ət və tərəvəzlərlə doldurulmuş badımcan.",
+              "ru": "Баклажаны, фаршированные мясом и овощами.",
+              "en": "Eggplant stuffed with meat and vegetables."
+            },
+            "price": 9.00,
+            "image_url": "https://images.unsplash.com/photo-1595675021518-36012b67b1e5"
+          },
+          {
+            "id": 502,
+            "name": {
+              "az": "Tərəvəz Plovu",
+              "ru": "Овощной плов",
+              "en": "Vegetable Pilaf"
+            },
+            "description": {
+              "az": "Mövsümi tərəvəzlərlə bişirilmiş dadlı plov.",
+              "ru": "Вкусный плов с сезонными овощами.",
+              "en": "Delicious pilaf with seasonal vegetables."
+            },
+            "price": 8.00,
+            "image_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c"
+          }
+        ]
+      }
+    ]
+}
